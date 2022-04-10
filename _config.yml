@@ -18,9 +18,11 @@ sass:
     sass_dir: css
 
 navbar:
+ - name: "Tags"
+   link: "tags"
  - name: "Guestbook"
    link: "guestbook"
  - name: "About"
    link: "about"
- - name: "Resume"
-   absolute-link: "https://shincyan1900.github.io/CV.pdf"
+# - name: "Resume"
+#   absolute-link: "https://shincyan1900.github.io/CV.pdf"
