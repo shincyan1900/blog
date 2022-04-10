@@ -1,5 +1,5 @@
 title: Blog
-author: pro-panda
+author: shincyan1900
 subtitle: The life of a frustrated engineer
 
 url: "https://shincyan1900.github.io"
@@ -18,6 +18,8 @@ sass:
     sass_dir: css
 
 navbar:
+ - name: "Guestbook"
+   link: "about"
  - name: "About"
    link: "about"
  - name: "Resume"
