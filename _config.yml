@@ -19,7 +19,7 @@ sass:
 
 navbar:
  - name: "Guestbook"
-   link: "about"
+   link: "guestbook"
  - name: "About"
    link: "about"
  - name: "Resume"
