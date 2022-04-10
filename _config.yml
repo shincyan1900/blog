@@ -2,10 +2,10 @@ title: Blog
 author: pro-panda
 subtitle: The life of a frustrated engineer
 
-url: "https://xiaoxin1900.github.io"
+url: "https://shincyan1900.github.io"
 baseurl: "/blog"
 
-footer_only_homepage: true
+footer_only_homepage: false
 footer_url: "https://github.com/rahul-bothra"
 footer_text: "Theme by rahul-bothra"
 
@@ -21,4 +21,4 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "https://xiaoxin1900.github.io/CV.pdf"
+   absolute-link: "https://shincyan1900.github.io/CV.pdf"
