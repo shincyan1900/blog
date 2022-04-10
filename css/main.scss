@@ -63,7 +63,7 @@ code {
 
     padding: 30px 0 20px 0;
     .site-title{
-        font-size: 32px;
+        font-size: 20px;
         color: #272727;
         display: inline-block;
     }
@@ -77,13 +77,13 @@ code {
         max-width: 500px;
         color: #272727;
         display: inline-block;
-        font-size: 30px;
+        font-size: 18px;
     }
     .details{
         @extend .pull-right;
         text-align: right;
         margin-left: 20px;
-        font-size: 15px;
+        font-size: 14px;
     }
     .subtitle{
         max-width: 500px;
