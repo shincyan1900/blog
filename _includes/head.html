@@ -1,6 +1,6 @@
 <head>
     {% if page.title %}
-        {% assign title = page.title | append: " - " | append: site.title %}
+        {% assign title = page.title | append: " | " | append: site.title %}
         {% assign desc = page.subtitle %}
     {% else %}
         {% assign title = site.title %}
