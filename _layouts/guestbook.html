@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
 
+{% include head.html %}
+
+<body>
+    <div class="container">
+        {% include navbar.html %}
+        <div class="page-title">
+            {{page.title}}
+        </div>
+        <div class="content">
+            {{ content }}
+        </div>
+        {% include footer.html %}
+    </div>
+</body>
+<script src="https://utteranc.es/client.js"
+        repo="shincyan1900/blog"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script> 
