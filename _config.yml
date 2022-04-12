@@ -24,7 +24,7 @@ navbar:
  - name: "Guestbook"
    link: "guestbook"
  - name: "RSS"
-   absolute-link: "https://shincyan1900.github.io/feed.xml"
+   absolute-link: "https://shincyan1900.github.io/blog/feed.xml"
 # - name: "About"
 #   link: "about"
 # - name: "Resume"
