@@ -1,6 +1,7 @@
 title: Blog
 author: shincyan1900
-subtitle: The life of a frustrated engineer
+subtitle: The life of a common man.
+description: The blog of a common man.
 
 url: "https://shincyan1900.github.io"
 baseurl: "/blog"
@@ -22,7 +23,9 @@ navbar:
    link: "tags"
  - name: "Guestbook"
    link: "guestbook"
- - name: "About"
-   link: "about"
+ - name: "RSS"
+   absolute-link: "https://shincyan1900.github.io/feed.xml"
+# - name: "About"
+#   link: "about"
 # - name: "Resume"
 #   absolute-link: "https://shincyan1900.github.io/CV.pdf"
