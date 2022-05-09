@@ -21,7 +21,7 @@ sass:
 navbar:
  - name: "Tags"
    link: "tags"
- - name: "日記"
+ - name: "Nikki"
    link: "nikki"
  - name: "Guestbook"
    link: "guestbook"

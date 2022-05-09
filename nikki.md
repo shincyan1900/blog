@@ -1,6 +1,6 @@
 ---
-layout: default
-title: 日記
+layout: nikki
+title: nikki
 ---
 
 ### 2022/05/09（月）	晴れ	🥲
