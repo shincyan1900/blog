@@ -1,6 +1,6 @@
 ---
 layout: nikki
-title: nikki
+title: Nikki
 ---
 
 ### 2022/05/21	（土）  曇り
