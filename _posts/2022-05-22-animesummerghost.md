@@ -1,6 +1,6 @@
 ---
 layout: post
-title:《夏日幻魂》：一场青春的冒险
+title: 一场青春的冒险
 subtitle: 番剧《夏日幻魂》的一点感想。
 tags: [Anime]
 ---
