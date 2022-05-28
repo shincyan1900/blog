@@ -2,6 +2,9 @@
     <a class="site-title" href="{{ site.url }}{{ site.baseurl}}/">{{ site.title }}</a>
 
     <ul class="pull-right">
+        <li class="pull-left" id="searchBtn">
+        	<a href="javascript: ;">Search</a>
+        </li>
         {% for x in site.navbar %}
         <li class="pull-left">
             {% if x.absolute-link %}
@@ -16,4 +19,15 @@
     </ul>
 
     <hr>
+</div>
+
+<!-- 弹窗 -->
+<div id="searchModal" class="searchModal">
+ 
+  <!-- 弹窗内容 -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>弹窗中的文本...</p>
+  </div>
+ 
 </div>
